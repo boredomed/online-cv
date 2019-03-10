@@ -1,7 +1,7 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
+    url: 'http://boredomed.github.io/online-cv/'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -12,38 +12,16 @@ sidebar:
     # Sidebar links
     email: mrana.bese15seecs@seecs.edu.pk
     phone: 012 34
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    website: boredomed.wordpress.com 
+    linkedin: linkedin.com/in/muhammad-rana-293b83126
+    github: github.com/boredomed
 
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
-        
     interests:
         - interest:
-          item: Climbing
-          link:
+          item: Content Writing
         - interest:
-          item: Snowboarding
-          link:
-        - interest:
-          item: Cooking
-          link:
-
+          item: Volunteer Work
         
-
-
-
-
 career-profile: 
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
@@ -51,29 +29,37 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Software Engineering
+      university: Nust, Islamabad
+      time: 2015 - 2019
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: A'levels
+      college: Beaconhouse
+      time: 2013 - 2015
 
 
+Professional Experience:
+    
+    publications:
+      - Firm:
+        Name: Teradata
+        time: July 2018 - August 2018
+        Responsibilities: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+      - Firm:
+        Name: The Art of Computer Programming
+        Responsibilities: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+      - Firm:
+        Name: The Art of Computer Programming
+        Responsibilities: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+        
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+    intro: "I have worked on a veriety of projects and have a diverse yet comprehensive skill set my major interests are in speech syntesis and nlp but i ahve also worked on webdevelpoment and several other projects"
+   
     projects:
       - project:
         title: Velocity
@@ -95,26 +81,6 @@ projects:
         title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 
 skills:
     title: Skills &amp; Proficiency
